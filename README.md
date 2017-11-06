@@ -1,5 +1,5 @@
 # HaikuGenerationWithUserInput
-This poetry generates Haikus using word frequency analysis from a large text of poetry. The generation of Haikus changes as the user "likes" or "dislikes" certain poems. 
+This project generates Haikus using word frequency analysis from a large text of poetry. The generation of Haikus changes as the user "likes" or "dislikes" certain poems. 
 
 The Haikus have a basic structure and novel adjectives/nouns are generated to produce novel Haikus. Initially, a list of nouns and adjectives (that are common in poetry) are specified. Word frequency analysis is used to see how many times these words occur in ~2500 lines of poetry that was compiled from the web. 
 
